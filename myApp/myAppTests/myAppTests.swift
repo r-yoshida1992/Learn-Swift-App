@@ -2,7 +2,7 @@
 //  myAppTests.swift
 //  myAppTests
 //
-//  Created by 吉田廉 on 2021/03/07.
+//  Created by Ren Yoshida on 2021/03/07.
 //
 
 import XCTest
